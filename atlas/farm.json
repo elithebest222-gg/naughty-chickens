@@ -1,0 +1,100 @@
+{"frames": {
+
+"Farm_0":
+{
+	"frame": {"x":1,"y":673,"w":1026,"h":341},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1026,"h":341},
+	"sourceSize": {"w":1026,"h":341}
+},
+"Farm_1":
+{
+	"frame": {"x":1,"y":1,"w":1026,"h":670},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1026,"h":670},
+	"sourceSize": {"w":1026,"h":670}
+},
+"Farm_2":
+{
+	"frame": {"x":1325,"y":675,"w":274,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":180},
+	"sourceSize": {"w":274,"h":180}
+},
+"Farm_3":
+{
+	"frame": {"x":1029,"y":628,"w":294,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":227},
+	"sourceSize": {"w":294,"h":227}
+},
+"Farm_4":
+{
+	"frame": {"x":1029,"y":1,"w":260,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":625},
+	"sourceSize": {"w":260,"h":625}
+},
+"Farm_5":
+{
+	"frame": {"x":1561,"y":1,"w":96,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":116},
+	"sourceSize": {"w":96,"h":116}
+},
+"Farm_6":
+{
+	"frame": {"x":1029,"y":857,"w":191,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":154},
+	"sourceSize": {"w":191,"h":154}
+},
+"Farm_7":
+{
+	"frame": {"x":1222,"y":857,"w":123,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":129},
+	"sourceSize": {"w":123,"h":129}
+},
+"Farm_8":
+{
+	"frame": {"x":1347,"y":857,"w":175,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":61},
+	"sourceSize": {"w":175,"h":61}
+},
+"Farm_9":
+{
+	"frame": {"x":1291,"y":1,"w":268,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":456},
+	"sourceSize": {"w":268,"h":456}
+},
+"Farm_10":
+{
+	"frame": {"x":1325,"y":459,"w":353,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":353,"h":214},
+	"sourceSize": {"w":353,"h":214}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "farm.png",
+	"format": "RGBA8888",
+	"size": {"w":1679,"h":1015},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fc74c816201754b9003d8e663578cee3:0556e68c23fbe88df994721b4e4cefc9:249d0b0902b65a5c907a7b4ac93732cf$"
+}
+}

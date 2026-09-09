@@ -1,0 +1,68 @@
+{"frames": {
+
+"Mars_0":
+{
+	"frame": {"x":1,"y":532,"w":1026,"h":369},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1026,"h":369},
+	"sourceSize": {"w":1026,"h":369}
+},
+"Mars_1":
+{
+	"frame": {"x":1,"y":1,"w":1026,"h":529},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1026,"h":529},
+	"sourceSize": {"w":1026,"h":529}
+},
+"Mars_2":
+{
+	"frame": {"x":1029,"y":231,"w":450,"h":362},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":362},
+	"sourceSize": {"w":450,"h":362}
+},
+"Mars_3":
+{
+	"frame": {"x":1344,"y":595,"w":279,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":280},
+	"sourceSize": {"w":279,"h":280}
+},
+"Mars_4":
+{
+	"frame": {"x":1029,"y":595,"w":313,"h":332},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":313,"h":332},
+	"sourceSize": {"w":313,"h":332}
+},
+"Mars_5":
+{
+	"frame": {"x":1029,"y":1,"w":596,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":596,"h":228},
+	"sourceSize": {"w":596,"h":228}
+},
+"Mars_6":
+{
+	"frame": {"x":1481,"y":231,"w":209,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":142},
+	"sourceSize": {"w":209,"h":142}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mars.png",
+	"format": "RGBA8888",
+	"size": {"w":1691,"h":928},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c3a192297d78f7fe405650fd2519c69b:2ff55ee819ab4c0ffccc2d006ad3a0dc:5335fcbf1e8ccb5726ce81beb4915110$"
+}
+}

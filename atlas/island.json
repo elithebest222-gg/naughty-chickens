@@ -1,0 +1,60 @@
+{"frames": {
+
+"Island_0":
+{
+	"frame": {"x":1,"y":1,"w":1026,"h":770},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1026,"h":770},
+	"sourceSize": {"w":1026,"h":770}
+},
+"Island_1":
+{
+	"frame": {"x":742,"y":773,"w":292,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":292,"h":184},
+	"sourceSize": {"w":292,"h":184}
+},
+"Island_2":
+{
+	"frame": {"x":1036,"y":732,"w":283,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":155},
+	"sourceSize": {"w":283,"h":155}
+},
+"Island_3":
+{
+	"frame": {"x":1029,"y":1,"w":269,"h":729},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":729},
+	"sourceSize": {"w":269,"h":729}
+},
+"Island_4":
+{
+	"frame": {"x":1300,"y":1,"w":426,"h":464},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":426,"h":464},
+	"sourceSize": {"w":426,"h":464}
+},
+"Island_5":
+{
+	"frame": {"x":1,"y":773,"w":739,"h":234},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":739,"h":234},
+	"sourceSize": {"w":739,"h":234}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "island.png",
+	"format": "RGBA8888",
+	"size": {"w":1727,"h":1008},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:085971f076d81f3b8a767321a5e25125:db71f8f821b9995b5595f3033b8e1be8:8c5a718172b27bc005e92199aa018a10$"
+}
+}

@@ -1,0 +1,60 @@
+{"frames": {
+
+"Farm":
+{
+	"frame": {"x":1,"y":1276,"w":442,"h":555},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":442,"h":555},
+	"sourceSize": {"w":442,"h":555}
+},
+"Farm_dead":
+{
+	"frame": {"x":612,"y":1103,"w":274,"h":341},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":341},
+	"sourceSize": {"w":274,"h":341}
+},
+"Island":
+{
+	"frame": {"x":1,"y":696,"w":609,"h":578},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":609,"h":578},
+	"sourceSize": {"w":609,"h":578}
+},
+"Island_dead":
+{
+	"frame": {"x":445,"y":1446,"w":459,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":459,"h":328},
+	"sourceSize": {"w":459,"h":328}
+},
+"Mars":
+{
+	"frame": {"x":1,"y":1,"w":770,"h":693},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":770,"h":693},
+	"sourceSize": {"w":770,"h":693}
+},
+"Mars_dead":
+{
+	"frame": {"x":612,"y":696,"w":356,"h":405},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":405},
+	"sourceSize": {"w":356,"h":405}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chicken.png",
+	"format": "RGBA8888",
+	"size": {"w":969,"h":1832},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d75cd9a1d5e917c5d9da1843f4248942:b98de4dfb9e562b4c0fe8ea444927346:327165fe4c3b7e9cab19b045cdf98e8c$"
+}
+}

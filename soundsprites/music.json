@@ -1,0 +1,27 @@
+{
+  "spritemap": {
+    "interface": {
+      "start": 0,
+      "end": 11.276,
+      "loop": true
+    },
+    "Island": {
+      "start": 11.740,
+      "end": 43.738,
+      "loop": true
+    },
+    "Mars": {
+      "start": 44.265,
+      "end": 70.535,
+      "loop": true
+    },
+    "Farm": {
+      "start": 71.394,
+      "end": 87.394,
+      "loop": true
+    }
+  },
+  "resources": [
+    "music.mp3"
+  ]
+}
